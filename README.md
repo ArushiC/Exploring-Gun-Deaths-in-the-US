@@ -13,6 +13,7 @@ Each row contains information about the fatality, and the victim. Here's an expl
 
 -- this is an identifier column, which contains the row number
 year -- the year in which the fatality occurred.
+
 month -- the month in which the fatality occurred.
 intent -- the intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
 police -- whether a police officer was involved with the shooting. Either 0 (false) or 1 (true).
